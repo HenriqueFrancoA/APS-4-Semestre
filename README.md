@@ -1,4 +1,4 @@
-# Organizador de vetores
+# Organizador de vetores (Atividade acadêmica)
 
 Uma simples interface que gera e ordena vetores do tamanho selecionado, informando a fim de estudo e comparação entre métodos de ordenação
 sendo esses métodos: Bubble, Insertion, Quick, Selection e também o método ".sort()" para ordenação de texto.
